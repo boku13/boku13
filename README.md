@@ -1,8 +1,8 @@
 ,.,><,>>><>><><.,.,.<>,.,.<<><.,<><><><.,.<.<.,,.
 >swe intern at google
 >student researcher in:
->> low-level systems
->> audio ml
+>> low-level systems,
+>> audio ml,
 >> control and swarm robotics
 
 
