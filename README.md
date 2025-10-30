@@ -1,9 +1,9 @@
 ,.,><,>>><>><><.,.,.<>,.,.<<><.,<><><><.,.<.<.,,.
->swe intern at google \n
->student researcher in: \n
->> low-level systems \n
->> audio ml \n
->> control and swarm robotics \n
+>swe intern at google <br>
+>student researcher in: <br>
+>> low-level systems <br>
+>> audio ml <br>
+>> control and swarm robotics <br>
 
 
 <!--
