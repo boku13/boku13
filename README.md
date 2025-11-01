@@ -1,7 +1,8 @@
 ,.,><,>>><>><><.,.,.<>,.,.<<><.,<><><><.,.<.<.,,.
 > swe intern at google <br>
 >> scalable & low-latency search infra <br>
->> high-performance indexing engine <br> <br>
+>> high-performance indexing engine <br>
+
 > student researcher at iitj <br>
 >> low-level systems <br>
 >> audio ml <br>
