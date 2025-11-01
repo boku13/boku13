@@ -1,12 +1,11 @@
 ,.,><,>>><>><><.,.,.<>,.,.<<><.,<><><><.,.<.<.,,.
-> swe intern at google  
-> • scalable & low-latency search infra  
-> • high-performance indexing engine  
-> student researcher at iitj  
-> • low-level systems  
-> • audio ml  
-> • control and swarm robotics
-
+> swe intern at google <br>
+>> scalable & low-latency search infra <br>
+>> high-performance indexing engine <br> <br>
+> student researcher at iitj <br>
+>> low-level systems <br>
+>> audio ml <br>
+>> control and swarm robotics <br>
 <!--
 **boku13/boku13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
