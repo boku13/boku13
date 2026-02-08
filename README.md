@@ -7,6 +7,8 @@
 >> low-level systems <br>
 >> audio ml <br>
 >> control and swarm robotics <br>
+
+reach out to me at: zaregototsukai13@gmail.com
 <!--
 **boku13/boku13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
